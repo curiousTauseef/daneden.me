@@ -27,7 +27,7 @@ Opinionated design also encourages greater creativity than customisations. Custo
 
 In light of this (no doubt drab and depressing for some) realisation, Vitsœ’s ethos comes to mind. “Living better, with less, that lasts longer.” Applying that filter to the things you buy results in an interesting pattern. Things with real density. Things stripped of pomp and frills. Things that are both very clearly present, and yet almost invisible until you need them. Things that don’t cry for attention. Living with this attitude also opens the floodgates for an appreciation of the things we most take for granted, and the people who designed them.
 
-
+Products that are simple and unambiguous make sense. They provide clarity and consistency that unlocks a life of fulfilment and completeness. And they empower myself and others like me to do what we must; continue making things that make sense.
 
 [^1]: This is, of course, a quote from Albert Einstein. Einstein was no designer—at least not by trade—but he was certainly onto something here.
 [^2]: Or, more realistically, in the overlap of Art, Design, and Advertising

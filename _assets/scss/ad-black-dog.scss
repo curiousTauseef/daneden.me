@@ -1,0 +1,74 @@
+@import "partials/variables";
+
+// Overrides
+html, :root {
+  background-color: $background-invert;
+  color: $dark-gray-invert;
+}
+
+.site__footer {
+  border-top-color: $lighter-gray-invert;
+
+  section + section:before {
+    background-color: $lighter-gray-invert;
+  }
+}
+
+.footer__copyright {
+  border-top-color: $lighter-gray-invert;
+}
+
+.site__nav {
+  border-top-color: $lighter-gray-invert;
+
+  a {
+    color: $light-gray-invert;
+  }
+}
+
+// Unique styles
+.site__header {
+  margin-top: $baseline;
+  padding-left: $baseline;
+  padding-right: $baseline;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.post__header {
+  width: 100% !important;
+  display: table !important;
+  padding-top: 0;
+  height: 100vh;
+  margin-bottom: 0;
+}
+
+.post__title {
+  display: table-cell;
+  vertical-align: middle;
+  margin-bottom: 0;
+
+  font-size: 6rem;
+  font-weight: 400;
+
+  color: #010203;
+
+  @media (max-width: 600px) {
+    font-size: 4rem;
+  }
+}
+
+.post__meta {
+  display: none;
+}
+
+hr {
+  border-bottom-color: $lighter-gray-invert;
+}
+
+.js--toggle-lights {
+  display: none;
+}
